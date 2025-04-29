@@ -1,0 +1,3 @@
+# Vikto by Skafis
+
+This will later be a kahoot-type-of app for making education quizzes. More formal, more academic, more stateless...
